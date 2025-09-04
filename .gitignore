@@ -3,3 +3,4 @@ core
 scraper_cache
 .DS_Store
 __pycache__
+config_backups
