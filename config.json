@@ -37,21 +37,9 @@
     ],
     "iptv_m3u8": [
       {
-        "name": "English Ace (Content ID)",
-        "slug": "English-Ace-Content-ID",
-        "url": "https://raw.githubusercontent.com/mooseboy42069420/acefetch/refs/heads/main/playlists/english_local_content_id.m3u",
-        "title_filter": {
-          "always_exclude_words": [],
-          "always_include_words": [],
-          "exclude_words": [],
-          "include_words": [],
-          "regex_postprocessing": ""
-        }
-      },
-      {
-        "name": "English Ace (Infohash)",
-        "slug": "English-Ace-Infohash",
-        "url": "https://raw.githubusercontent.com/mooseboy42069420/acefetch/refs/heads/main/playlists/english_local_infohash.m3u",
+        "name": "Icastresana English (Content ID)",
+        "slug": "",
+        "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/peticiones",
         "title_filter": {
           "always_exclude_words": [],
           "always_include_words": [],
@@ -70,14 +58,7 @@
           "always_exclude_words": [],
           "always_include_words": [],
           "exclude_words": [],
-          "include_words": [
-            "[UK]",
-            "[US]",
-            "[IE]",
-            "[AU]",
-            "[EN]",
-            "[CA]"
-          ],
+          "include_words": ["[UK]", "[US]", "[IE]", "[AU]", "[EN]", "[CA]"],
           "regex_postprocessing": ""
         }
       }
@@ -116,24 +97,10 @@
         "golf",
         "fórmula 1"
       ],
-      "movies": [
-        "movie",
-        "cinema",
-        "film"
-      ],
-      "news": [
-        "news"
-      ],
-      "kids": [
-        "kids",
-        "children"
-      ],
-      "music": [
-        "music",
-        "concert",
-        "mtv",
-        "radio"
-      ]
+      "movies": ["movie", "cinema", "film"],
+      "news": ["news"],
+      "kids": ["kids", "children"],
+      "music": ["music", "concert", "mtv", "radio"]
     }
   },
   "epgs": [
