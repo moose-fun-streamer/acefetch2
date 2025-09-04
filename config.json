@@ -103,46 +103,5 @@
       "music": ["music", "concert", "mtv", "radio"]
     }
   },
-  "epgs": [
-    {
-      "region_code": "UK",
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/unitedkingdom1.xml.gz"
-    },
-    {
-      "region_code": "US",
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/unitedstates1.xml.gz"
-    },
-    {
-      "region_code": "PL",
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/poland1.xml.gz"
-    },
-    {
-      "region_code": "TR",
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/turkey1.xml.gz"
-    },
-    {
-      "region_code": "DE",
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/germany3.xml.gz"
-    },
-    {
-      "region_code": "BE",
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/belgium1.xml.gz"
-    },
-    {
-      "region_code": "RU",
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/russia3.xml.gz"
-    },
-    {
-      "region_code": "IE",
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/ireland2.xml.gz"
-    }
-  ]
+  "epgs": []
 }
