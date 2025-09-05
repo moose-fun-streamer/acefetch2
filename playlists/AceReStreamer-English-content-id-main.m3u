@@ -1,5 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" tvg-id="Sky Sport F1.de" group-title="Sports" x-last-found="0", Sky Sport F1 [DE]
-http://127.0.0.1:6878/ace/manifest.m3u8?content_id=b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 tvg-logo="" tvg-id="Sky Sports Main Event.uk" group-title="Sports" x-last-found="0", Sky Sports Main Event [UK]
-http://127.0.0.1:6878/ace/manifest.m3u8?content_id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
