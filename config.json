@@ -19,6 +19,7 @@
   "scraper": {
     "playlist_name": "AceReStreamer-English",
     "adhoc_playlist_external_url": "https://raw.githubusercontent.com/moose-fun-streamer/acefetch2/refs/heads/main",
+    "tvg_logo_external_url": "https://media.githubusercontent.com/media/moose-fun-streamer/acefetch2/refs/heads/main/tvg_logos",
     "html": [
       {
         "name": "overtakefans.com",
