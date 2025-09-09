@@ -32,7 +32,11 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git add .
-          git commit -m "Update m3u" || echo "No changes to commit"
-          git push
+          if [ "$(git diff --cached --numstat | wc -l)" -gt 1 ]; then
+            git commit -m "Update m3u"
+            git push
+          else
+            echo "No changes to commit, ignoring README.md."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
