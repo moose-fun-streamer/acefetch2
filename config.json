@@ -100,7 +100,9 @@
       "Tennis Channel (UK) (720p) [?]": "Tennis Channel [UK]",
       "Tennis Channel HD [?]": "Tennis Channel [US]",
       "ESPN 1 [US]": "ESPN [US]",
-      "ESPN 2 [US]": "ESPN2 [US]"
+      "ESPN 2 [US]": "ESPN2 [US]",
+      "FOX Sports 1 HD [US]": "Fox Sports 1 [US]",
+      "FOX Sports 2 HD [US]": "Fox Sports 2 [US]"
     },
     "category_mapping": {
       "sports": [
