@@ -27,7 +27,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?infohash=e33fb63ba12cf45bcee7757c8520f56
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch2/refs/heads/main/tvg_logos/TNT-Sports-2-HD-UK.png" tvg-id="TNT Sports 2 HD.uk" group-title="Sports" x-last-found="0", TNT Sports 2 HD [UK]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=01dcc1ea3387c2b73953efe3f52286a770737d7c
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch2/refs/heads/main/tvg_logos/TNT-Sports-3-HD-UK.png" tvg-id="TNT Sports 3 HD.uk" group-title="Sports" x-last-found="1758860882", TNT Sports 3 HD [UK]
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch2/refs/heads/main/tvg_logos/TNT-Sports-3-HD-UK.png" tvg-id="TNT Sports 3 HD.uk" group-title="Sports" x-last-found="0", TNT Sports 3 HD [UK]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=d57ebd44296b0c92c0661cc964e737a54b852cec
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch2/refs/heads/main/tvg_logos/TNT-Sports-4-HD-UK.png" tvg-id="TNT Sports 4 HD.uk" group-title="Sports" x-last-found="0", TNT Sports 4 HD [UK]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=2605c201c8c9cf6684ee1de562d3b4c7e17ac915
