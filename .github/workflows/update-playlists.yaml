@@ -22,7 +22,9 @@ jobs:
         uses: astral-sh/setup-uv@v5
 
       - name: Run the scraper
-        run: export UV_GIT_LFS=1 && uvx --from "git+https://github.com/kism/acerestreamer@develop" acerestreamer-scrape --app-config config.json
+        run: uvx --from "git+https://github.com/kism/acerestreamer@develop" acerestreamer-scrape --app-config config.json
+        env:
+          UV_GIT_LFS: 1
 
       - name: Configure git
         run: |
