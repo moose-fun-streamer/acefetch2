@@ -5,41 +5,37 @@
     "transcode_audio": false,
     "ace_max_streams": 6
   },
-  "flask": {
-    "DEBUG": true,
-    "TESTING": false,
-    "SERVER_NAME": "",
-    "SECRET_KEY": "",
-    "SQLALCHEMY_DATABASE_URI": ""
-  },
   "logging": {
     "level": "INFO",
-    "path": ""
+    "path": null,
+    "simple": false
   },
   "scraper": {
-    "playlist_name": "AceReStreamer-English",
+    "playlist_name": "acerestreamer-english",
     "adhoc_playlist_external_url": "https://raw.githubusercontent.com/moose-fun-streamer/acefetch2/refs/heads/main",
     "tvg_logo_external_url": "https://media.githubusercontent.com/media/moose-fun-streamer/acefetch2/refs/heads/main/tvg_logos",
     "html": [
       {
-        "name": "overtakefans.com",
-        "slug": "overtakefans-com",
+        "type": "html",
+        "name": "overtakefans-com",
         "url": "https://overtakefans.com/f1-live-stream/sky-sport-f1-live-stream-via-ace-player/",
-        "target_class": "text2",
-        "check_sibling": true,
         "title_filter": {
           "always_exclude_words": [],
           "always_include_words": [],
           "exclude_words": [],
           "include_words": [],
           "regex_postprocessing": "Server \\d+: "
+        },
+        "html_filter": {
+          "target_class": "text2",
+          "check_sibling": false
         }
       }
     ],
     "iptv_m3u8": [
       {
-        "name": "Icastresana English (Content ID)",
-        "slug": "Icastresana-English-Content-ID",
+        "type": "iptv",
+        "name": "icastresana-english-content-id",
         "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/peticiones",
         "title_filter": {
           "always_exclude_words": [],
@@ -59,8 +55,8 @@
     ],
     "api": [
       {
-        "name": "Fun API",
-        "slug": "Fun-API",
+        "type": "api",
+        "name": "fun-api",
         "url": "https://api.acestream.me/all?api_version=1&api_key=test_api_key",
         "title_filter": {
           "always_exclude_words": [],
@@ -183,5 +179,16 @@
       "format": "xml.gz",
       "url": "https://www.open-epg.com/files/ireland2.xml.gz"
     }
+  ],
+  "FRONTEND_HOST": "",
+  "ENVIRONMENT": "local",
+  "EXTERNAL_URL": "http://localhost:5100",
+  "ACCESS_TOKEN_EXPIRE_MINUTES": 11520,
+  "SECRET_KEY": "cDKPdiAfzJaV1RC8O-6WlNZ2E5GtRXAGBqh6M1gYONw",
+  "FIRST_SUPERUSER": "admin",
+  "FIRST_SUPERUSER_PASSWORD": "",
+  "BACKEND_CORS_ORIGINS": [],
+  "all_cors_origins": [
+    ""
   ]
 }
