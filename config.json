@@ -28,7 +28,7 @@
         },
         "html_filter": {
           "target_class": "text2",
-          "check_sibling": false
+          "check_sibling": true
         }
       }
     ],
