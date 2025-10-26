@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedkingdom1.xml.gz,https://www.open-epg.com/files/unitedstates1.xml.gz,https://www.open-epg.com/files/poland1.xml.gz,https://www.open-epg.com/files/turkey1.xml.gz,https://www.open-epg.com/files/germany3.xml.gz,https://www.open-epg.com/files/belgium1.xml.gz,https://www.open-epg.com/files/russia3.xml.gz,https://www.open-epg.com/files/ireland2.xml.gz"
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch2/refs/heads/main/tvg_logos/espn-us----sport-tv.png" tvg-id="ESPN  --> SPORT TV.us" group-title="Sports" x-last-found="0", ESPN [US] --> SPORT TV
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch2/refs/heads/main/tvg_logos/espn-us.png" tvg-id="ESPN.us" group-title="Sports" x-last-found="0", ESPN [US]
 plugin://script.module.horus?action=play&id=4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch2/refs/heads/main/tvg_logos/espn2-us.png" tvg-id="ESPN2.us" group-title="Sports" x-last-found="0", ESPN2 [US]
+plugin://script.module.horus?action=play&id=664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch2/refs/heads/main/tvg_logos/fox-sports-1-us.png" tvg-id="Fox Sports 1.us" group-title="Sports" x-last-found="0", Fox Sports 1 [US]
 plugin://script.module.horus?action=play&id=c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch2/refs/heads/main/tvg_logos/fox-sports-2-us.png" tvg-id="Fox Sports 2.us" group-title="Sports" x-last-found="0", Fox Sports 2 [US]
@@ -31,5 +33,3 @@ plugin://script.module.horus?action=play&id=d63d8a57cf471394bfa9f619bbd68b01ae27
 plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch2/refs/heads/main/tvg_logos/tnt-sports-4-hd-uk.png" tvg-id="TNT Sports 4 HD.uk" group-title="Sports" x-last-found="0", TNT Sports 4 HD [UK]
 plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch2/refs/heads/main/tvg_logos/us----sport-tv-espn2-us----sport-tv.png" tvg-id="US] --> SPORT TV [ESPN2  --> SPORT TV.us" group-title="Sports" x-last-found="0", US] --> SPORT TV [ESPN2 [US] --> SPORT TV
-plugin://script.module.horus?action=play&id=664eb5fe460b96941aed633959a845b185cd8394
