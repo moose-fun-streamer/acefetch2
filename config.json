@@ -98,7 +98,11 @@
       "ESPN 1 [US]": "ESPN [US]",
       "ESPN 2 [US]": "ESPN2 [US]",
       "FOX Sports 1 HD [US]": "Fox Sports 1 [US]",
-      "FOX Sports 2 HD [US]": "Fox Sports 2 [US]"
+      "FOX Sports 2 HD [US]": "Fox Sports 2 [US]",
+      "TNT Sports 1 HD [UK]": "TNT Sports 1 HD [IE]",
+      "TNT Sports 2 HD [UK]": "TNT Sports 2 HD [IE]",
+      "TNT Sports 3 HD [UK]": "TNT Sports 3 HD [IE]",
+      "TNT Sports 4 HD [UK]": "TNT Sports 4 HD [IE]"
     },
     "category_mapping": {
       "sports": [
