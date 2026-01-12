@@ -12,8 +12,8 @@
   },
   "scraper": {
     "playlist_name": "acerestreamer-english",
-    "adhoc_playlist_external_url": "https://raw.githubusercontent.com/moose-fun-streamer/acefetch2/refs/heads/main",
-    "tvg_logo_external_url": "https://media.githubusercontent.com/media/moose-fun-streamer/acefetch2/refs/heads/main/tvg_logos",
+    "adhoc_playlist_external_url": "https://raw.githubusercontent.com/moose-fun-streamer/acefetch/refs/heads/main",
+    "tvg_logo_external_url": "https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos",
     "html": [
       {
         "type": "html",
@@ -91,20 +91,21 @@
       "Premier Sports 2 [UK]": "Premier Sports 2 [IE]",
       "SkySP PL [UK]": "Sky Sports Premier League [UK]",
       "ESPN HD [US]": "ESPN [US]",
-      "BT Sport 1 [UK]": "TNT Sports 1 HD [IE]",
-      "BT Sport 2 [UK]": "TNT Sports 2 HD [IE]",
-      "BT Sport 3 [UK]": "TNT Sports 3 HD [IE]",
-      "BT Sport / ESPN [UK]": "TNT Sports 4 HD [IE]",
+      "BT Sport 1 [UK]": "TNT Sports 1 [IE]",
+      "BT Sport 2 [UK]": "TNT Sports 2 [IE]",
+      "BT Sport 3 [UK]": "TNT Sports 3 [IE]",
+      "BT Sport / ESPN [UK]": "TNT Sports 4 [IE]",
       "Tennis Channel (UK) (720p) [?]": "Tennis Channel [UK]",
       "Tennis Channel HD [?]": "Tennis Channel [US]",
       "ESPN 1 [US]": "ESPN [US]",
       "ESPN 2 [US]": "ESPN2 [US]",
       "FOX Sports 1 HD [US]": "Fox Sports 1 [US]",
       "FOX Sports 2 HD [US]": "Fox Sports 2 [US]",
-      "TNT Sports 1 HD [UK]": "TNT Sports 1 HD [IE]",
-      "TNT Sports 2 HD [UK]": "TNT Sports 2 HD [IE]",
-      "TNT Sports 3 HD [UK]": "TNT Sports 3 HD [IE]",
-      "TNT Sports 4 HD [UK]": "TNT Sports 4 HD [IE]"
+      "TNT Sports 1 HD [UK]": "TNT Sports 1 [IE]",
+      "TNT Sports 2 HD [UK]": "TNT Sports 2 [IE]",
+      "TNT Sports 3 HD [UK]": "TNT Sports 3 [IE]",
+      "TNT Sports 4 HD [UK]": "TNT Sports 4 [IE]",
+      "[UK]_SKY SPORTS MAIN EVENT 1080 ELCANO [UK]": "Sky Sports Main Event [UK]"
     },
     "category_mapping": {
       "sports": [
