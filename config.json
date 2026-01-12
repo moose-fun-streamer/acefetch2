@@ -24,7 +24,9 @@
           "always_include_words": [],
           "exclude_words": [],
           "include_words": [],
-          "regex_postprocessing": "Server \\d+: "
+          "regex_postprocessing": [
+            "Server \\d+: "
+          ]
         },
         "html_filter": {
           "target_class": "text2",
@@ -49,7 +51,7 @@
             "[EN]",
             "[CA]"
           ],
-          "regex_postprocessing": ""
+          "regex_postprocessing": []
         }
       }
     ],
@@ -70,7 +72,7 @@
             "[EN]",
             "[CA]"
           ],
-          "regex_postprocessing": ""
+          "regex_postprocessing": []
         }
       }
     ],
