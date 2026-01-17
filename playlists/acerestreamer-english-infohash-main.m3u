@@ -19,7 +19,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?infohash=37796ca47026bc190c7dc26827c0dfb
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=610eefafd6602c094e8e89c249a11d635cb6fe29
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-football-uk.png" tvg-id="Sky Sports Football.uk" group-title="Sports" x-last-found="0", Sky Sports Football [UK]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=54de746f7823812312b4000422618465f7d58f87
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-main-event-uk.png" tvg-id="Sky Sports Main Event.uk" group-title="Sports" x-last-found="0", Sky Sports Main Event [UK]
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-main-event-uk.png" tvg-id="Sky Sports Main Event.uk" group-title="Sports" x-last-found="1768624081", Sky Sports Main Event [UK]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=78266c15035d0ad8cbc58f821733931e1de434ab
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-premier-league-uk.png" tvg-id="Sky Sports Premier League.uk" group-title="Sports" x-last-found="0", Sky Sports Premier League [UK]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=e33fb63ba12cf45bcee7757c8520f561ad27a39f
@@ -31,7 +31,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?infohash=1b348443efc7f0cf4cdf349ac35bbe5
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/tnt-sports-2-ie.png" tvg-id="TNT Sports 2.ie" group-title="Sports" x-last-found="0", TNT Sports 2 [IE]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=01dcc1ea3387c2b73953efe3f52286a770737d7c
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/tnt-sports-3-ie.png" tvg-id="TNT Sports 3.ie" group-title="Sports" x-last-found="1768538102", TNT Sports 3 [IE]
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/tnt-sports-3-ie.png" tvg-id="TNT Sports 3.ie" group-title="Sports" x-last-found="0", TNT Sports 3 [IE]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=d57ebd44296b0c92c0661cc964e737a54b852cec
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/tnt-sports-4-ie.png" tvg-id="TNT Sports 4.ie" group-title="Sports" x-last-found="0", TNT Sports 4 [IE]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=2605c201c8c9cf6684ee1de562d3b4c7e17ac915

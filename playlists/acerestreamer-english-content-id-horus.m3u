@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedkingdom1.xml.gz,https://www.open-epg.com/files/unitedstates1.xml.gz,https://www.open-epg.com/files/poland1.xml.gz,https://www.open-epg.com/files/turkey1.xml.gz,https://www.open-epg.com/files/germany3.xml.gz,https://www.open-epg.com/files/belgium1.xml.gz,https://www.open-epg.com/files/russia3.xml.gz,https://www.open-epg.com/files/ireland2.xml.gz"
+#EXTINF:-1 tvg-id="Bein Sports Xtra Ñ 3b7 ...a6e.us" group-title="Sports" x-last-found="0", Bein Sports Xtra Ñ 3b7 ...a6e [US]
+plugin://script.module.horus?action=play&id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/espn-us.png" tvg-id="ESPN.us" group-title="Sports" x-last-found="0", ESPN [US]
 plugin://script.module.horus?action=play&id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/espn2-us.png" tvg-id="ESPN2.us" group-title="Sports" x-last-found="0", ESPN2 [US]
