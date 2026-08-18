@@ -23,11 +23,11 @@ http://127.0.0.1:6878/ace/manifest.m3u8?infohash=54de746f7823812312b400042261846
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=78266c15035d0ad8cbc58f821733931e1de434ab
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-premier-league-uk.png" tvg-id="Sky Sports Premier League.uk" group-title="Sports" x-last-found="0", Sky Sports Premier League [UK]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=e33fb63ba12cf45bcee7757c8520f561ad27a39f
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/tennis-channel-uk.png" tvg-id="Tennis Channel.uk" group-title="Sports" x-last-found="1786942240", Tennis Channel [UK]
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/tennis-channel-uk.png" tvg-id="Tennis Channel.uk" group-title="Sports" x-last-found="1787028100", Tennis Channel [UK]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=8941762ddb41ff774d02431b7973f759d7c74157
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/tennis-channel-us.png" tvg-id="Tennis Channel.us" group-title="Sports" x-last-found="0", Tennis Channel [US]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=1b348443efc7f0cf4cdf349ac35bbe5d41be6220
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/tnt-sports-1-ie.png" tvg-id="TNT Sports 1.ie" group-title="Sports" x-last-found="1786942142", TNT Sports 1 [IE]
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/tnt-sports-1-ie.png" tvg-id="TNT Sports 1.ie" group-title="Sports" x-last-found="0", TNT Sports 1 [IE]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/tnt-sports-2-ie.png" tvg-id="TNT Sports 2.ie" group-title="Sports" x-last-found="0", TNT Sports 2 [IE]
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=01dcc1ea3387c2b73953efe3f52286a770737d7c
