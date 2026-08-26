@@ -13,7 +13,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?content_id=e72d03fb9694164317260f684470b
 http://127.0.0.1:6878/ace/manifest.m3u8?content_id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/premier-sports-2-ie.png" tvg-id="Premier Sports 2.ie" group-title="Sports" x-last-found="0", Premier Sports 2 [IE]
 http://127.0.0.1:6878/ace/manifest.m3u8?content_id=4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sport-f1-de.png" tvg-id="Sky Sport F1.de" group-title="Sports" x-last-found="1787633142", Sky Sport F1 [DE]
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sport-f1-de.png" tvg-id="Sky Sport F1.de" group-title="Sports" x-last-found="1787719643", Sky Sport F1 [DE]
 http://127.0.0.1:6878/ace/manifest.m3u8?content_id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-plus-uk.png" tvg-id="Sky Sports +.uk" group-title="Sports" x-last-found="0", Sky Sports + [UK]
 http://127.0.0.1:6878/ace/manifest.m3u8?content_id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
@@ -23,7 +23,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?content_id=6d95e4b0893e155cc674b84e07631
 http://127.0.0.1:6878/ace/manifest.m3u8?content_id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-main-event-uk.png" tvg-id="Sky Sports Main Event.uk" group-title="Sports" x-last-found="0", Sky Sports Main Event [UK]
 http://127.0.0.1:6878/ace/manifest.m3u8?content_id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-main-event-uk.png" tvg-id="Sky Sports Main Event.uk" group-title="Sports" x-last-found="1787633142", Sky Sports Main Event [UK]
+#EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-main-event-uk.png" tvg-id="Sky Sports Main Event.uk" group-title="Sports" x-last-found="1787719643", Sky Sports Main Event [UK]
 http://127.0.0.1:6878/ace/manifest.m3u8?content_id=e4b259b6dedb674283ab124117ce793360d3a1c0
 #EXTINF:-1 tvg-logo="https://media.githubusercontent.com/media/moose-fun-streamer/acefetch/refs/heads/main/tvg_logos/sky-sports-premier-league-uk.png" tvg-id="Sky Sports Premier League.uk" group-title="Sports" x-last-found="0", Sky Sports Premier League [UK]
 http://127.0.0.1:6878/ace/manifest.m3u8?content_id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
