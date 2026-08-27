@@ -169,93 +169,10 @@
       ]
     }
   },
-  "epgs": [
-    {
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/unitedkingdom1.xml.gz",
-      "tvg_id_overrides": {},
-      "slug": "https-www-open-epg-com-files-unitedkingdom1-xml-gz"
-    },
-    {
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/unitedkingdom3.xml.gz",
-      "tvg_id_overrides": {},
-      "slug": "https-www-open-epg-com-files-unitedkingdom3-xml-gz"
-    },
-    {
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/unitedkingdom5.xml.gz",
-      "tvg_id_overrides": {},
-      "slug": "https-www-open-epg-com-files-unitedkingdom5-xml-gz"
-    },
-    {
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/unitedstates1.xml.gz",
-      "tvg_id_overrides": {
-        "The Tennis Channel.us": "Tennis Channel.us"
-      },
-      "slug": "https-www-open-epg-com-files-unitedstates1-xml-gz"
-    },
-    {
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/unitedstates5.xml.gz",
-      "tvg_id_overrides": {
-        "FOX Sports 1.us": "Fox Sports 1.us",
-        "FOX Sports 2.us": "Fox Sports 2.us"
-      },
-      "slug": "https-www-open-epg-com-files-unitedstates5-xml-gz"
-    },
-    {
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/unitedstates7.xml.gz",
-      "tvg_id_overrides": {
-        "Fox Sports 2.us": "zzz",
-        "NBA TV.us": "zzz"
-      },
-      "slug": "https-www-open-epg-com-files-unitedstates7-xml-gz"
-    },
-    {
-      "format": "xml.gz",
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
-      "tvg_id_overrides": {
-        "ESPN.HD.us2": "zzz",
-        "ESPN2.HD.us2": "ESPN2.us",
-        "FS1.Fox.Sports.1.HD.us2": "Fox Sports 1.us",
-        "FS2.Fox.Sports.2.HD.us2": "Fox Sports 2.us",
-        "Tennis.Channel.HD.us2": "Tennis Channel.us"
-      },
-      "slug": "https-epgshare01-online-epgshare01-epg-ripper-us2-xml-gz"
-    },
-    {
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/ireland2.xml.gz",
-      "tvg_id_overrides": {},
-      "slug": "https-www-open-epg-com-files-ireland2-xml-gz"
-    },
-    {
-      "format": "xml.gz",
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz",
-      "tvg_id_overrides": {},
-      "slug": "https-epgshare01-online-epgshare01-epg-ripper-ie1-xml-gz"
-    },
-    {
-      "format": "xml.gz",
-      "url": "https://www.open-epg.com/files/germany3.xml.gz",
-      "tvg_id_overrides": {},
-      "slug": "https-www-open-epg-com-files-germany3-xml-gz"
-    }
-  ],
   "REMOTE_SETTINGS_URL": null,
   "FRONTEND_HOST": "",
   "ENVIRONMENT": "local",
   "EXTERNAL_URL": "http://localhost:5100",
-  "ACCESS_TOKEN_EXPIRE_MINUTES": 11520,
-  "SECRET_KEY": "",
-  "FIRST_SUPERUSER": "admin",
-  "FIRST_SUPERUSER_PASSWORD": "",
-  "AUTH_DISABLED": false,
-  "BACKEND_CORS_ORIGINS": [],
-  "all_cors_origins": [
-    ""
-  ]
+  "XC_PASSWORD": "NHIpjY8vAbbfX0FRmQOL",
+  "SECRET_KEY": ""
 }
